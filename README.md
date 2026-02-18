@@ -67,6 +67,7 @@ PORT=3000
 MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_secret
 API_BASE_URL=http://localhost:3000
+```
 
 npm install
 node server.mjs
@@ -85,4 +86,5 @@ get-student
 get-students-by-school
 
 These tools allow LLM-based systems to interact with the API in a structured way.
+
 
