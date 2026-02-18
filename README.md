@@ -54,6 +54,8 @@ server.mjs
 mcp-server.mjs
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ukBfxPz8iNk?si=62qmtnrybieE8D_1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 [YOUTUBE VIDEO](https://youtu.be/ukBfxPz8iNk)
 
 
@@ -86,5 +88,6 @@ get-student
 get-students-by-school
 
 These tools allow LLM-based systems to interact with the API in a structured way.
+
 
 
