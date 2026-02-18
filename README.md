@@ -54,9 +54,11 @@ server.mjs
 mcp-server.mjs
 
 
-
+## 📸 Video
 
 [![Watch the viode](https://img.youtube.com/vi/ukBfxPz8iNk/maxresdefault.jpg)](https://youtu.be/ukBfxPz8iNk)
+
+### [Watch this video on YouTube](https://youtu.be/ukBfxPz8iNk)
 
 
 
@@ -88,6 +90,7 @@ get-student
 get-students-by-school
 
 These tools allow LLM-based systems to interact with the API in a structured way.
+
 
 
 
